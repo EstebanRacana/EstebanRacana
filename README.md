@@ -1,16 +1,13 @@
-## Hi, my name is Esteban  👋
+Hi, my name is Esteban  👋
 
-<!--
-**EstebanRacana/EstebanRacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was a student on EducacionIT and now just studying a career in Escuela Da Vinci
 
-Here are some ideas to get you started:
+🌱 I’m currently learning so many things
+🤔 I’m looking for help with get a job to be a better programmer
+🤔 I’m looking to collaborate on Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to get more information, for example
+How can you programming in your code?
+See this github and look my projects 
+
+Bye! 
