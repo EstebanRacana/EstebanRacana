@@ -10,4 +10,6 @@ If you want to get more information, for example
 How can you programming in your code?
 See this github and look my projects 
 
+Languages: Python, Java, C++, Kotlin
+
 Bye! 
