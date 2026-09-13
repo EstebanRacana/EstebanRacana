@@ -42,7 +42,4 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1oMjdiNmRkZDg0Y2ZmajgwN
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
-
-Look my projects<br>
-
-Goodbye! <br>
+<h2>Look my projects</h2>
