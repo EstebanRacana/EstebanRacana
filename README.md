@@ -14,7 +14,7 @@ I was a student on EducacionIT and now just studying a career in Escuela Da Vinc
 
 ### 💻 Backend
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 ## 🖥️ Frameworks
 <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -24,6 +24,6 @@ I was a student on EducacionIT and now just studying a career in Escuela Da Vinc
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 
-See this github and look my projects<br>
+# See this github and look my projects<br>
 
 Bye! <br>
