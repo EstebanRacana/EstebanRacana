@@ -14,10 +14,14 @@ I was a student on EducacionIT and now just studying a career in Escuela Da Vinc
 
 ### 💻 Backend
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+Java<br>
 ## 🖥️ Frameworks
 <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+
+### 🗃 &nbsp;Databases
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"&nbsp;
 
 ## 🧰 Other Tools 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
