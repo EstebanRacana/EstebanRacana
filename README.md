@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I was a student on EducacionIT and now just studying a career in Escuela Da Vinci<br>
+<h1>I was a student on EducacionIT and now just studying a career in Escuela Da Vinci</h1>
 
 🌱 I’m currently learning<br>
 🤔 I’m looking to be a better programmer<br>
