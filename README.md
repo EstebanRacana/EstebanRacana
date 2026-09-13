@@ -22,8 +22,7 @@ I was a student on EducacionIT and now just studying a career in Escuela Da Vinc
 ## 🧰 Other Tools 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-##Languages
-<img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 See this github and look my projects<br>
 
