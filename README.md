@@ -2,10 +2,10 @@
 
 # 💫 About Me:
 
-<h1>I was a student on EducacionIT and now just studying a career in Escuela Da Vinci</h1>
+<h1>I was a student in EducacionIT and now just studying a career in Escuela Da Vinci</h1>
 
-🌱 I’m currently learning<br>
-🤔 I’m looking to be a better programmer<br>
+🌱 I'm currently learning<br>
+🤔 I'm looking to be a better programmer<br>
 
 ### 🖥️ Frontend
 <span>
