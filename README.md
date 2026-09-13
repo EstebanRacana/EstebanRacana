@@ -13,9 +13,11 @@ I was a student on EducacionIT and now just studying a career in Escuela Da Vinc
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
+
 <img align="right" width=300px alt="Unicorn"
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1oMjdiNmRkZDg0Y2ZmajgwNWhmMTgydXBwdHd5ODUyM3hrNzNlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-### 💻 Backend
+
+### 🖥️ Backend
 <span>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
